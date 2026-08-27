@@ -77,10 +77,10 @@
 | [hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3,469 \| 🐛 5 \| 🌐 C++ \| 📅 2026-08-26                 | 基于 C++/Python 的开源量化交易研究框架            |
 | [apolloauto](https://www.oschina.net/p/apolloauto)                                                       | 开源自动驾驶平台                             |
 | [tcpcopy](https://github.com/session-replay-tools/tcpcopy) ⭐ 4,675 \| 🐛 1 \| 🌐 C \| 📅 2025-06-18      | 分布式图片实时动态压缩                          |
-| [tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,719 \| 🐛 2,942 \| 🌐 C++ \| 📅 2026-08-27  | 机器学习系统                               |
+| [tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,723 \| 🐛 2,944 \| 🌐 C++ \| 📅 2026-08-27  | 机器学习系统                               |
 | [seafile](https://github.com/haiwen/seafile) ⭐ 15,175 \| 🐛 90 \| 🌐 C \| 📅 2026-08-26                  | 开源网盘云存储                              |
-| [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) ⭐ 19,653 \| 🐛 125 \| 🌐 C++ \| 📅 2024-07-05 | 使用C++11编写的高性能 Web 服务器，适合用作网络编程与多线程并发 |
-| [libqalculate](https://github.com/Qalculate/libqalculate) ⭐ 2,633 \| 🐛 197 \| 🌐 C++ \| 📅 2026-08-23   | 功能非常强大的跨平台 数学计算库                     |
+| [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) ⭐ 19,654 \| 🐛 125 \| 🌐 C++ \| 📅 2024-07-05 | 使用C++11编写的高性能 Web 服务器，适合用作网络编程与多线程并发 |
+| [libqalculate](https://github.com/Qalculate/libqalculate) ⭐ 2,633 \| 🐛 198 \| 🌐 C++ \| 📅 2026-08-23   | 功能非常强大的跨平台 数学计算库                     |
 
 ***
 
@@ -205,18 +205,18 @@
 | [frugally-deep](https://github.com/Dobiasd/frugally-deep) ⭐ 1,128 \| 🐛 0 \| 🌐 C++ \| 📅 2026-05-06               | 一个仅头文件库，用于在 C++ 中使用 Keras 模型                                                                                                |
 | [Genann](https://github.com/codeplea/genann) ⭐ 2,280 \| 🐛 0 \| 🌐 C \| 📅 2026-08-08                              | 用 C 编写的简单神经网络库                                                                                                              |
 | [MXNet](https://github.com/apache/incubator-mxnet) ⚠️ Archived                                                     | 轻量、可移植、灵活的分布式/移动端深度学习框架，支持动态、可变的数据流图调度器；支持 Python、R、Julia、Scala、Go、JavaScript 等语言。                                          |
-| [PyTorch](https://github.com/pytorch/pytorch) ⭐ 102,613 \| 🐛 17,373 \| 🌐 Python \| 📅 2026-08-27                 | 在 Python 中具有强大 GPU 加速的张量和动态图神经网络框架                                                                                          |
+| [PyTorch](https://github.com/pytorch/pytorch) ⭐ 102,613 \| 🐛 17,374 \| 🌐 Python \| 📅 2026-08-27                 | 在 Python 中具有强大 GPU 加速的张量和动态图神经网络框架                                                                                          |
 | [flashlight](https://github.com/flashlight/flashlight) ⭐ 5,466 \| 🐛 126 \| 🌐 C++ \| 📅 2026-06-22                | 一个完全用 C++ 编写的快速灵活的机器学习库                                                                                                     |
 | [Recast/Detour](https://github.com/recastnavigation/recastnavigation) ⭐ 7,876 \| 🐛 133 \| 🌐 C++ \| 📅 2026-02-27 | 三维导航网格生成与路径规划器，主要用于游戏开发                                                                                                     |
-| [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,719 \| 🐛 2,942 \| 🌐 C++ \| 📅 2026-08-27            | 一个使用数据流图进行数值计算的开源软件库                                                                                                        |
+| [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,723 \| 🐛 2,944 \| 🌐 C++ \| 📅 2026-08-27            | 一个使用数据流图进行数值计算的开源软件库                                                                                                        |
 | [Txeo](https://github.com/rdabra/txeo) ⭐ 54 \| 🐛 8 \| 🌐 C++ \| 📅 2025-05-08                                     | TensorFlow 的现代 C++ 封装库                                                                                                      |
-| [oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 4,043 \| 🐛 186 \| 🌐 C++ \| 📅 2026-08-27                        | 一款用于深度学习应用的跨平台高性能开源库                                                                                                        |
+| [oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 4,043 \| 🐛 187 \| 🌐 C++ \| 📅 2026-08-27                        | 一款用于深度学习应用的跨平台高性能开源库                                                                                                        |
 | [CNTK](https://github.com/Microsoft/CNTK) ⚠️ Archived                                                              | 微软认知工具包（CNTK），一个开源深度学习工具包                                                                                                   |
 | [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) ⭐ 6,030 \| 🐛 297 \| 🌐 C++ \| 📅 2022-04-17                      | C++11 实现的头文件式、无依赖的深度学习框架                                                                                                    |
 | [Veles](https://github.com/Samsung/veles) ⭐ 916 \| 🐛 36 \| 🌐 C++ \| 📅 2023-11-21                                | 一个分布式平台，用于快速开发深度学习应用                                                                                                        |
 | [Kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,469 \| 🐛 261 \| 🌐 Shell \| 📅 2025-09-22                        | 用于语音识别的工具包                                                                                                                  |
-| [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,105 \| 🐛 238 \| 🌐 C++ \| 📅 2026-08-26                   | Abseil C++ 通用库。                                                                                                             |
-| [AUI](https://github.com/aui-framework/aui) ⭐ 596 \| 🐛 117 \| 🌐 C++ \| 📅 2026-08-26                             | 适用于 C++20 的声明式 UI 工具包。                                                                                                      |
+| [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,104 \| 🐛 238 \| 🌐 C++ \| 📅 2026-08-26                   | Abseil C++ 通用库。                                                                                                             |
+| [AUI](https://github.com/aui-framework/aui) ⭐ 595 \| 🐛 117 \| 🌐 C++ \| 📅 2026-08-27                             | 适用于 C++20 的声明式 UI 工具包。                                                                                                      |
 | [Boost](https://github.com/boostorg)                                                                               | 大量的通用 C++ 库集合。                                                                                                              |
 | [BDE](https://github.com/bloomberg/bde) ⭐ 1,838 \| 🐛 15 \| 🌐 C++ \| 📅 2026-08-25                                | 彭博实验室的 BDE 开发环境。                                                                                                            |
 | [C++ Workflow](https://github.com/sogou/workflow) ⭐ 14,418 \| 🐛 27 \| 🌐 C++ \| 📅 2026-08-10                     | C++ 并行计算和异步网络引擎。                                                                                                            |
@@ -224,7 +224,7 @@
 | [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)                                                            | 一个小型、仅头文件的库，将较新 C++ 标准的各种功能反向移植到 C++03 及更高版本。                                                                               |
 | [Dlib](https://github.com/davisking/dlib) ⭐ 14,432 \| 🐛 38 \| 🌐 C++ \| 📅 2026-08-11                             | 一个用于在 C++ 中构建实际机器学习和数据分析应用的工具包。                                                                                             |
 | [EASTL](https://github.com/electronicarts/EASTL) ⭐ 9,344 \| 🐛 106 \| 🌐 C++ \| 📅 2025-11-15                      | Electronic Arts 标准模板库。                                                                                                      |
-| [ETL](https://github.com/ETLCPP/etl) ⭐ 3,107 \| 🐛 61 \| 🌐 C++ \| 📅 2026-08-27                                   | 嵌入式模板库。                                                                                                                     |
+| [ETL](https://github.com/ETLCPP/etl) ⭐ 3,107 \| 🐛 62 \| 🌐 C++ \| 📅 2026-08-27                                   | 嵌入式模板库。                                                                                                                     |
 | [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) ⭐ 745 \| 🐛 1 \| 🌐 C++ \| 📅 2026-06-12                   | 企业应用开发框架。                                                                                                                   |
 | [Folly](https://github.com/facebook/folly) ⭐ 30,509 \| 🐛 463 \| 🌐 C++ \| 📅 2026-08-27                           | Facebook 开发和使用的开源 C++ 库。                                                                                                    |
 | [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) ⭐ 2,295 \| 🐛 0 \| 🌐 C++ \| 📅 2026-07-15             | 适用于 C++ 的函数式编程库。编写简洁易读的 C++ 代码。                                                                                             |
@@ -261,7 +261,7 @@
 
 | 项目                                                                                                  | 简介                                         |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [**fmt**](https://github.com/fmtlib/fmt) ⭐ 23,766 \| 🐛 17 \| 🌐 C++ \| 📅 2026-08-23               | 快速、安全、现代的 C++ 格式化库，C++20 `std::format` 的前身 |
+| [**fmt**](https://github.com/fmtlib/fmt) ⭐ 23,765 \| 🐛 17 \| 🌐 C++ \| 📅 2026-08-23               | 快速、安全、现代的 C++ 格式化库，C++20 `std::format` 的前身 |
 | [**spdlog**](https://github.com/gabime/spdlog) ⭐ 29,530 \| 🐛 50 \| 🌐 C++ \| 📅 2026-08-08         | 高性能日志库，基于 `fmt` 实现                         |
 | [**log.c**](https://github.com/rxi/log.c) ⭐ 3,548 \| 🐛 40 \| 🌐 C \| 📅 2024-07-21                 | 轻量级 C 日志库，单文件实现                            |
 | [**dbg-macro**](https://github.com/sharkdp/dbg-macro) ⭐ 3,233 \| 🐛 9 \| 🌐 C++ \| 📅 2026-02-14    | 强大且美观的 C++ 调试宏工具                           |
@@ -273,7 +273,7 @@
 | [**cereal**](https://github.com/USCiLab/cereal) ⭐ 4,703 \| 🐛 344 \| 🌐 C++ \| 📅 2026-03-11        | 现代 C++ 序列化库                                |
 | [**nanopb**](https://github.com/nanopb/nanopb) ⭐ 5,538 \| 🐛 79 \| 🌐 C \| 📅 2026-08-26            | 面向嵌入式的 Protocol Buffers 实现                 |
 | [**SQLiteCpp**](https://github.com/SRombauts/SQLiteCpp) ⭐ 2,780 \| 🐛 93 \| 🌐 C \| 📅 2026-08-25   | SQLite 的 C++ 封装库                           |
-| [**sqlite\_orm**](https://github.com/fnc12/sqlite_orm) ⭐ 2,691 \| 🐛 17 \| 🌐 C++ \| 📅 2026-08-27  | 纯现代 C++ 实现的 SQLite ORM                     |
+| [**sqlite\_orm**](https://github.com/fnc12/sqlite_orm) ⭐ 2,691 \| 🐛 16 \| 🌐 C++ \| 📅 2026-08-27  | 纯现代 C++ 实现的 SQLite ORM                     |
 | [**ctpl**](https://github.com/vit-vit/ctpl) ⭐ 2,034 \| 🐛 29 \| 🌐 C++ \| 📅 2023-01-26             | 简洁的线程池实现                                   |
 | [**zlog**](https://github.com/HardySimpson/zlog) ⭐ 2,543 \| 🐛 141 \| 🌐 C \| 📅 2026-08-11         | 快速、高可靠的 C 日志库，支持分级和异步                      |
 | [**linenoise**](https://github.com/antirez/linenoise) ⭐ 4,344 \| 🐛 155 \| 🌐 C \| 📅 2026-05-02    | 轻量的 readline 替代品，适用于 CLI 应用                |
@@ -311,7 +311,7 @@
 | 项目                                                                                              | 简介                      |
 | ----------------------------------------------------------------------------------------------- | ----------------------- |
 | [**args**](https://github.com/Taywee/args) ⭐ 1,635 \| 🐛 15 \| 🌐 C++ \| 📅 2026-08-03          | C++ 命令行参数解析库            |
-| [**CLI11**](https://github.com/CLIUtils/CLI11) ⭐ 4,426 \| 🐛 74 \| 🌐 C++ \| 📅 2026-08-21      | 一个用于 C++11 及更高版本的命令行解析器 |
+| [**CLI11**](https://github.com/CLIUtils/CLI11) ⭐ 4,427 \| 🐛 74 \| 🌐 C++ \| 📅 2026-08-21      | 一个用于 C++11 及更高版本的命令行解析器 |
 | [**clipp**](https://github.com/muellan/clipp) ⭐ 1,323 \| 🐛 56 \| 🌐 C++ \| 📅 2024-05-30       | 现代 C++强大的表达性参数解析        |
 | [**cxxopts**](https://github.com/jarro2783/cxxopts) ⭐ 4,801 \| 🐛 70 \| 🌐 C++ \| 📅 2026-07-13 | 轻量级 C++ GNU 风格选项解析库     |
 | [**structopt**](https://github.com/p-ranav/structopt) ⭐ 511 \| 🐛 8 \| 🌐 C++ \| 📅 2024-10-27  | 通过定义一个结构体来解析命令行参数       |
@@ -360,8 +360,8 @@
 | [Deleaker](http://www.deleaker.com)                                                                                                | 一个用于资源泄漏检测的工具，包括内存、GDI 和句柄泄漏。             |
 | [FakeIt](https://github.com/eranpeer/FakeIt) ⭐ 1,370 \| 🐛 74 \| 🌐 C++ \| 📅 2026-06-30                                           | 适用于 C++ 的简单 Mocking 框架。                   |
 | [fff](https://github.com/meekrosoft/fff) ⭐ 932 \| 🐛 59 \| 🌐 C \| 📅 2023-11-02                                                   | 一个用于创建虚假 C 函数的微框架。                        |
-| [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) ⭐ 38,964 \| 🐛 491 \| 🌐 C++ \| 📅 2026-08-27 | 一个用于编写和使用 C++ 模拟类的库。                      |
-| [Google Test](https://github.com/google/googletest) ⭐ 38,964 \| 🐛 491 \| 🌐 C++ \| 📅 2026-08-27                                  | 谷歌 C++ 测试框架。                              |
+| [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) ⭐ 38,976 \| 🐛 491 \| 🌐 C++ \| 📅 2026-08-27 | 一个用于编写和使用 C++ 模拟类的库。                      |
+| [Google Test](https://github.com/google/googletest) ⭐ 38,976 \| 🐛 491 \| 🌐 C++ \| 📅 2026-08-27                                  | 谷歌 C++ 测试框架。                              |
 | [Hippomocks](https://github.com/dascandy/hippomocks) ⭐ 203 \| 🐛 33 \| 🌐 C++ \| 📅 2024-12-09                                     | 单头文件 Mocking 框架。                          |
 | [microprofile](https://github.com/jonasmr/microprofile) ⭐ 1,590 \| 🐛 28 \| 🌐 C \| 📅 2026-08-26                                  | 带有网页视图的多平台性能分析器。                          |
 | [MinUnit](https://github.com/siu/minunit) ⭐ 644 \| 🐛 6 \| 🌐 C \| 📅 2023-10-27                                                   | 一个自包含在单个头文件中的 C 语言最小单元测试框架。               |
@@ -375,7 +375,7 @@
 
 | 项目                                                                                                                       | 简介                                                              |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-| [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) ⭐ 19,653 \| 🐛 125 \| 🌐 C++ \| 📅 2024-07-05                 | 高性能 Web 服务器，C++ 实现，支持 epoll + 多线程                               |
+| [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) ⭐ 19,654 \| 🐛 125 \| 🌐 C++ \| 📅 2024-07-05                 | 高性能 Web 服务器，C++ 实现，支持 epoll + 多线程                               |
 | [wfrest](https://github.com/wfrest/wfrest) ⭐ 1,008 \| 🐛 29 \| 🌐 C++ \| 📅 2026-07-18                                   | 基于 Sogou Workflow 的轻量级 C++ REST 框架                              |
 | [picohttpparser](https://github.com/h2o/picohttpparser) ⭐ 2,104 \| 🐛 22 \| 🌐 C \| 📅 2026-04-06                        | 极快的 HTTP 解析器，常用于嵌入式服务端                                          |
 | [libuv](https://github.com/libuv/libuv) ⭐ 27,132 \| 🐛 234 \| 🌐 C \| 📅 2026-08-20                                      | 跨平台异步 I/O 库，Node.js 的核心依赖                                       |
@@ -384,9 +384,9 @@
 | [Civetweb](https://github.com/civetweb/civetweb) ⭐ 3,443 \| 🐛 237 \| 🌐 C \| 📅 2026-08-01                              | 提供易于使用、功能强大的 C/C++ 嵌入式 Web 服务器，可选支持 CGI、SSL 和 Lua。              |
 | [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) ⚠️ Archived                                                      | 微软的项目，用于使用现代异步 C++ API 设计进行本地代码中的云端客户端-服务器通信。                   |
 | [CppCMS](http://cppcms.com/)                                                                                             | 一个免费的高性能 Web 开发框架（而非 CMS）。                                      |
-| [Crow](https://github.com/CrowCpp/Crow) ⭐ 4,955 \| 🐛 87 \| 🌐 C++ \| 📅 2026-08-24                                      | Crow 是一个用于运行 Web 服务的 C++ 微框架，其路由方式类似于 Python 的 Flask。           |
+| [Crow](https://github.com/CrowCpp/Crow) ⭐ 4,955 \| 🐛 85 \| 🌐 C++ \| 📅 2026-08-27                                      | Crow 是一个用于运行 Web 服务的 C++ 微框架，其路由方式类似于 Python 的 Flask。           |
 | [Cutelyst](https://github.com/cutelyst/cutelyst) ⭐ 976 \| 🐛 16 \| 🌐 C++ \| 📅 2026-08-19                               | 一个基于 Qt 构建的 C++ Web 框架，采用 Catalyst (Perl) 框架的简单方法。              |
-| [Drogon](https://github.com/an-tao/drogon) ⭐ 14,219 \| 🐛 420 \| 🌐 C++ \| 📅 2026-08-27                                 | 一个基于 C++17/20 的高性能 HTTP 应用框架。                                   |
+| [Drogon](https://github.com/an-tao/drogon) ⭐ 14,220 \| 🐛 420 \| 🌐 C++ \| 📅 2026-08-27                                 | 一个基于 C++17/20 的高性能 HTTP 应用框架。                                   |
 | [C++ wfrest](https://github.com/wfrest/wfrest) ⭐ 1,008 \| 🐛 29 \| 🌐 C++ \| 📅 2026-07-18                               | C++ Web 框架 REST API。                                            |
 | [facil.io](https://github.com/boazsegev/facil.io) ⭐ 2,400 \| 🐛 37 \| 🌐 C \| 📅 2026-04-14                              | 一个事件驱动的高性能 C Web 框架，支持 HTTP、WebSockets、SSE 等。                   |
 | [Kore](https://kore.io/)                                                                                                 | 用 C 语言开发的超快速灵活的 Web 服务器/Web 应用程序框架。                             |
@@ -425,7 +425,7 @@
 | [CppSharp](https://github.com/mono/CppSharp) ⭐ 3,406 \| 🐛 346 \| 🌐 C# \| 📅 2026-05-18                      | 将 C/C++ API 粘合到高级语言的工具和库。                                                                        |
 | [ChaiScript](https://github.com/ChaiScript/ChaiScript/) ⭐ 3,124 \| 🐛 73 \| 🌐 C++ \| 📅 2026-05-02           | 一种易于使用的 C++ 嵌入式脚本语言。                                                                             |
 | [ctypes.sh](https://github.com/taviso/ctypes.sh) ⭐ 2,177 \| 🐛 20 \| 🌐 C \| 📅 2026-07-21                    | 用于 Bash 的外部函数接口。                                                                                 |
-| [Cython](https://github.com/cython/cython) ⭐ 10,833 \| 🐛 1,515 \| 🌐 Cython \| 📅 2026-08-27                 | Cython 是一个优化静态编译器，适用于 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）。它使为 Python 编写 C 扩展变得像 Python 本身一样容易。 |
+| [Cython](https://github.com/cython/cython) ⭐ 10,833 \| 🐛 1,516 \| 🌐 Cython \| 📅 2026-08-27                 | Cython 是一个优化静态编译器，适用于 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）。它使为 Python 编写 C 扩展变得像 Python 本身一样容易。 |
 | [djinni](https://djinni.xlcpp.dev)                                                                            | 一个用于生成跨语言类型声明和接口绑定的工具。                                                                           |
 | [Duktape](https://github.com/svaarala/duktape) ⭐ 6,209 \| 🐛 474 \| 🌐 JavaScript \| 📅 2024-03-22            | 一款占用空间小的可嵌入 JavaScript 引擎。                                                                       |
 | [JavaCpp](https://github.com/bytedeco/javacpp) ⭐ 4,705 \| 🐛 113 \| 🌐 Java \| 📅 2026-08-10                  | 连接 Java 和原生 C++ 的缺失桥梁。                                                                           |
@@ -438,7 +438,7 @@
 | [QuickJS](https://bellard.org/quickjs/)                                                                       | 一个小巧且可嵌入的 JavaScript 引擎。                                                                         |
 | [SIP](https://riverbankcomputing.com/software/sip/intro)                                                      | 用于 Python v2 和 v3 的 C 或 C++ 绑定生成器。                                                               |
 | [sol2](https://github.com/ThePhD/sol2) ⭐ 5,131 \| 🐛 308 \| 🌐 C++ \| 📅 2025-03-07                           | 一个带有高级功能和顶级性能的 C++ <-> Lua API 包装器。                                                              |
-| [SWIG](https://github.com/swig/swig) ⭐ 6,318 \| 🐛 502 \| 🌐 SWIG \| 📅 2026-08-27                            | 一个包装/接口生成器，可让您的 C++ 代码链接到 JavaScript、Perl、PHP、Python、Tcl 和 Ruby。                                 |
+| [SWIG](https://github.com/swig/swig) ⭐ 6,318 \| 🐛 504 \| 🌐 SWIG \| 📅 2026-08-27                            | 一个包装/接口生成器，可让您的 C++ 代码链接到 JavaScript、Perl、PHP、Python、Tcl 和 Ruby。                                 |
 | [txiki.js](https://github.com/saghul/txiki.js) ⭐ 3,126 \| 🐛 13 \| 🌐 C \| 📅 2026-08-24                      | 一个微小的 JavaScript 运行时。                                                                            |
 | [V7](https://github.com/cesanta/v7) ⭐ 1,454 \| 🐛 51 \| 🌐 C \| 📅 2020-11-30                                 | 一个嵌入式 JavaScript 引擎。                                                                             |
 | [V8](https://v8.dev)                                                                                          | 谷歌开发的一款快速 JavaScript 引擎，可以嵌入到任何 C++ 应用程序中。                                                       |
@@ -468,7 +468,7 @@
 | [asap](https://github.com/tcbrindle/asap)                                                                       | 用于创建、展示、迭代和操作日期的库。                 |
 | [cxx prettyprint](https://github.com/louisdx/cxx-prettyprint) ⭐ 566 \| 🐛 13 \| 🌐 C++ \| 📅 2023-01-02         | 用于在 C++（0x）中对任意容器进行美观打印的工具。        |
 | [emio](https://github.com/aminya/emio)                                                                          | 一个安全且快速的 C++20 字符输入/输出库，支持高层和低层操作。 |
-| [fmt](https://github.com/fmtlib/fmt) ⭐ 23,766 \| 🐛 17 \| 🌐 C++ \| 📅 2026-08-23                               | 一个现代化的格式化库。                        |
+| [fmt](https://github.com/fmtlib/fmt) ⭐ 23,765 \| 🐛 17 \| 🌐 C++ \| 📅 2026-08-23                               | 一个现代化的格式化库。                        |
 | [pprint](https://github.com/p-ranav/pprint) ⚠️ Archived                                                         | 用于现代 C++ 的漂亮打印器。                   |
 | [strf](https://github.com/robhz786/strf) ⭐ 71 \| 🐛 0 \| 🌐 C++ \| 📅 2024-12-15                                | 一个为 C++14 设计的快速格式化库。               |
 | [tabulate](https://github.com/p-ranav/tabulate) ⭐ 2,174 \| 🐛 44 \| 🌐 C++ \| 📅 2025-05-14                     | 用于现代 C++ 的表格生成工具。                  |
@@ -539,8 +539,8 @@
 
 | 项目                                                                                                           | 简介                                                     |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
-| [**Apache NuttX**](https://github.com/qinguoyi/TinyWebServer) ⭐ 19,653 \| 🐛 125 \| 🌐 C++ \| 📅 2024-07-05  | 一个兼容 POSIX 的实时微内核操作系统，支持 ARM、RISC‑V 等多个架构，适合嵌入式系统开发与学习 |
-| [**Zephyr**](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,322 \| 🐛 3,896 \| 🌐 C \| 📅 2026-08-27     | 主流开源嵌入式系统与工具链                                          |
+| [**Apache NuttX**](https://github.com/qinguoyi/TinyWebServer) ⭐ 19,654 \| 🐛 125 \| 🌐 C++ \| 📅 2024-07-05  | 一个兼容 POSIX 的实时微内核操作系统，支持 ARM、RISC‑V 等多个架构，适合嵌入式系统开发与学习 |
+| [**Zephyr**](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,322 \| 🐛 3,907 \| 🌐 C \| 📅 2026-08-27     | 主流开源嵌入式系统与工具链                                          |
 | [**FreeRTOS**](https://github.com/FreeRTOS/FreeRTOS) ⭐ 7,727 \| 🐛 33 \| 🌐 C \| 📅 2026-08-26               | 主流开源嵌入式系统与工具链                                          |
 | [**acados**](https://github.com/acados/acados) ⭐ 1,452 \| 🐛 79 \| 🌐 C \| 📅 2026-08-12                     | 面向嵌入式场景的开源最优控制库，底层使用 BLASFEO 高性能线性代数，加速控制算法部署          |
 | [**stm32f103c8t6-examples**](https://github.com/afiskon/stm32f103c8t6-examples)                              | 用 C 编写的 STM32F103 系列裸机程序                               |
@@ -548,7 +548,7 @@
 | [**FreeRTOS-Kernel**](https://github.com/FreeRTOS/FreeRTOS-Kernel) ⭐ 4,445 \| 🐛 84 \| 🌐 C \| 📅 2026-08-26 | 轻量级实时操作系统内核                                            |
 | [**pico-examples**](https://github.com/raspberrypi/pico-examples) ⭐ 3,895 \| 🐛 152 \| 🌐 C \| 📅 2026-07-03 | Raspberry Pi Pico (RP2040) 官方示例                        |
 | [**libusb**](https://github.com/libusb/libusb) ⭐ 6,142 \| 🐛 163 \| 🌐 C \| 📅 2026-08-26                    | 用户态 USB 通信库                                            |
-| [**tinyusb**](https://github.com/hathach/tinyusb) ⭐ 7,058 \| 🐛 249 \| 🌐 C \| 📅 2026-08-27                 | 嵌入式 USB 栈                                              |
+| [**tinyusb**](https://github.com/hathach/tinyusb) ⭐ 7,058 \| 🐛 250 \| 🌐 C \| 📅 2026-08-27                 | 嵌入式 USB 栈                                              |
 
 ***
 
@@ -571,7 +571,7 @@
 | [Eigen](http://eigen.tuxfamily.org/)                                                             | 一个用于线性代数、矩阵和向量运算、数值求解器及相关算法的高级 C++ 模板头文件库。                 |
 | [ExprTk](https://www.partow.net/programming/exprtk/)                                             | C++ 数学表达式工具包库 (ExprTk) 是一个易于使用、易于集成且极其高效的运行时数学表达式解析器和评估引擎。 |
 | [Geometric Tools](https://www.geometrictools.com)                                                | 用于在数学、图形、图像分析和物理领域进行计算的 C++ 库。                             |
-| [GLM](https://github.com/g-truc/glm) ⭐ 11,184 \| 🐛 124 \| 🌐 C++ \| 📅 2026-04-07               | 仅头文件的 C++ 数学库，与 OpenGL 的 GLSL 数学库匹配并可互操作。                  |
+| [GLM](https://github.com/g-truc/glm) ⭐ 11,184 \| 🐛 126 \| 🌐 C++ \| 📅 2026-04-07               | 仅头文件的 C++ 数学库，与 OpenGL 的 GLSL 数学库匹配并可互操作。                  |
 | [GMTL](http://ggt.sourceforge.net/)                                                              | 图形数学模板库是一个以通用方式实现图形基本元素的工具集合。                              |
 | [GMP](https://gmplib.org/)                                                                       | 一个用于任意精度算术的 C 库，可对有符号整数、有理数和浮点数进行操作。                       |
 | [Klein](https://github.com/jeremyong/klein) ⚠️ Archived                                          | 一个快速、SIMD 优化的 C++17 几何代数库，用于点、线和平面的投影、交点、连接、刚体运动等。         |
@@ -579,7 +579,7 @@
 | [MATIO](https://github.com/tbeu/matio) ⭐ 400 \| 🐛 4 \| 🌐 C \| 📅 2026-08-26                    | MATLAB MAT 文件 I/O 库。                                       |
 | [MatX](https://github.com/NVIDIA/MatX) ⭐ 1,444 \| 🐛 17 \| 🌐 C++ \| 📅 2026-08-26               | 一个 GPU 加速的 C++17 数值计算库，具有 MATLAB/Python 风格的语法。             |
 | [MIRACL](https://github.com/CertiVox/MIRACL) ⭐ 702 \| 🐛 75 \| 🌐 C \| 📅 2021-05-07             | 一个多精度整数和有理数算术加密库。                                          |
-| [NumCpp](https://github.com/dpilger26/NumCpp) ⭐ 3,962 \| 🐛 7 \| 🌐 C++ \| 📅 2026-03-17         | Python Numpy 库的模板化仅头文件 C++ 实现。                             |
+| [NumCpp](https://github.com/dpilger26/NumCpp) ⭐ 3,963 \| 🐛 7 \| 🌐 C++ \| 📅 2026-03-17         | Python Numpy 库的模板化仅头文件 C++ 实现。                             |
 | [muparser](https://beltoforion.de/en/muparser)                                                   | muParser 是一个用 C++ 编写的可扩展高性能数学表达式解析器库。                      |
 | [LibTomMath](https://github.com/libtom/libtommath) ⭐ 799 \| 🐛 29 \| 🌐 C \| 📅 2026-04-20       | 一个完全用 C 编写的免费开源便携式数论多精度整数库。                                |
 | [linmath.h](https://github.com/datenwolf/linmath.h) ⭐ 1,059 \| 🐛 20 \| 🌐 C \| 📅 2023-05-31    | 一个精简的线性数学库，面向图形编程。                                         |
@@ -607,7 +607,7 @@
 | [**Diligent Engine**](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,416 \| 🐛 24 \| 🌐 Batchfile \| 📅 2026-08-16 | 跨平台渲染框架，封装 DirectX12/Vulkan/Metal 等主流 API，适合 3D 可视化类项目 |
 | [**Acid**](https://github.com/Equilibrium-Games/Acid) ⭐ 2,019 \| 🐛 21 \| 🌐 C++ \| 📅 2023-09-21                           | 一个高速的 C++17 Vulkan 游戏引擎                                |
 | [**Allegro**](http://liballeg.org/)                                                                                         | 一个跨平台库，主要用于视频游戏和多媒体编程                                  |
-| [**Axmol Engine**](https://github.com/axmolengine/axmol) ⭐ 1,443 \| 🐛 13 \| 🌐 C++ \| 📅 2026-08-27                        | 一个跨平台的桌面、移动和 XBOX（UWP）游戏引擎，源自 Cocos2d-x-4.0            |
+| [**Axmol Engine**](https://github.com/axmolengine/axmol) ⭐ 1,443 \| 🐛 11 \| 🌐 C++ \| 📅 2026-08-27                        | 一个跨平台的桌面、移动和 XBOX（UWP）游戏引擎，源自 Cocos2d-x-4.0            |
 | [**Cocos2d-x**](http://www.cocos2d-x.org/)                                                                                  | 一个用纯 C、SDL 和 OpenGL 编写的游戏引擎                            |
 | [**crown**](https://github.com/dbartolini/crown) ⭐ 30 \| 🐛 0 \| 🌐 C++ \| 📅 2026-08-27                                    | 开源 C++ 游戏引擎，支持 Windows/Linux/Android                   |
 | [**Corange**](https://github.com/orangeduck/Corange) ⭐ 1,986 \| 🐛 22 \| 🌐 C \| 📅 2024-06-03                              | Crown 是一个通用数据驱动游戏引擎，用正统 C++从头编写，具有极简主义和数据导向的设计理念       |
@@ -615,7 +615,7 @@
 | [**GamePlay**](https://github.com/gameplay3d/GamePlay) ⭐ 4,900 \| 🐛 9 \| 🌐 C++ \| 📅 2025-02-25                           | 一个跨平台的原生 C++游戏框架，用于创建 2D/3D 移动和桌面游戏                    |
 | [**Grit**](https://github.com/grit-engine/grit-engine) ⭐ 124 \| 🐛 4 \| 🌐 C++ \| 📅 2018-05-07                             | 一个社区项目，旨在构建一个免费的 3D 开放世界游戏引擎                           |
 | [**Halley**](https://github.com/amzeratul/halley) ⭐ 3,855 \| 🐛 47 \| 🌐 C \| 📅 2026-08-27                                 | 一个用 C++14 编写的轻量级游戏引擎，具有"真正"的实体-组件系统                    |
-| [**Hazel Game Engine**](https://github.com/TheCherno/Hazel) ⭐ 13,089 \| 🐛 135 \| 🌐 C++ \| 📅 2024-04-20                   | Hazel 主要是一个用于 Windows 的早期阶段交互式应用程序和渲染引擎                |
+| [**Hazel Game Engine**](https://github.com/TheCherno/Hazel) ⭐ 13,090 \| 🐛 135 \| 🌐 C++ \| 📅 2024-04-20                   | Hazel 主要是一个用于 Windows 的早期阶段交互式应用程序和渲染引擎                |
 | [**Boden**](https://github.com/AshampooSystems/boden) ⭐ 1,746 \| 🐛 29 \| 🌐 C++ \| 📅 2021-12-17                           | 原生、移动、跨平台 GUI 框架                                       |
 | [**CEGUI**](http://cegui.org.uk/)                                                                                           | 灵活的跨平台 GUI 库                                           |
 | [**Elements**](https://github.com/cycfi/elements) ⭐ 3,721 \| 🐛 41 \| 🌐 C++ \| 📅 2026-06-13                               | 轻量级、细粒度、分辨率无关、模块化 GUI 库                                |
@@ -648,14 +648,14 @@
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [ada](https://github.com/ada-url/ada) ⭐ 1,829 \| 🐛 29 \| 🌐 C++ \| 📅 2026-08-25                              | 符合 WHATWG 标准且快速的现代 C++ URL 解析器。                            |
 | [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html)                                                         | 一个 C++ 面向对象网络编程工具包。                                        |
-| [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,607 \| 🐛 91 \| 🌐 C++ \| 📅 2026-08-12                     | 一个用于网络和低级别 I/O 编程的跨平台 C++ 库。                               |
+| [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,608 \| 🐛 91 \| 🌐 C++ \| 📅 2026-08-12                     | 一个用于网络和低级别 I/O 编程的跨平台 C++ 库。                               |
 | [Boost.Beast](https://github.com/boostorg/beast) ⭐ 4,820 \| 🐛 106 \| 🌐 C++ \| 📅 2026-08-25                  | 基于 Boost.Asio 在 C++11 中构建的 HTTP 和 WebSocket 库。             |
 | [Breep](https://github.com/Organic-Code/Breep) ⭐ 146 \| 🐛 5 \| 🌐 C++ \| 📅 2018-12-07                        | 基于事件的高级 C++14 点对点库。                                        |
 | [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) ⚠️ Archived                                            | C++ REST SDK（以前名为 Casablanca）。                             |
 | [Restbed](https://github.com/corvusoft/restbed) ⭐ 2,000 \| 🐛 4 \| 🌐 C++ \| 📅 2026-06-23                     | C++11 异步 RESTful 框架。                                       |
 | [Restinio](https://github.com/Stiffstream/restinio) ⭐ 1,302 \| 🐛 42 \| 🌐 C++ \| 📅 2026-04-02                | 一个仅头文件的 C++14 库，提供嵌入式 HTTP/Websocket 服务器功能。                |
 | [c-ares](https://github.com/c-ares/c-ares) ⭐ 2,182 \| 🐛 70 \| 🌐 C \| 📅 2026-08-24                           | 一个用于异步 DNS 请求的 C 库。                                        |
-| [ENet](https://github.com/lsalzman/enet) ⭐ 3,260 \| 🐛 98 \| 🌐 C \| 📅 2026-06-23                             | 可靠的 UDP 网络库。                                               |
+| [ENet](https://github.com/lsalzman/enet) ⭐ 3,261 \| 🐛 98 \| 🌐 C \| 📅 2026-06-23                             | 可靠的 UDP 网络库。                                               |
 | [evpp](https://github.com/Qihoo360/evpp) ⭐ 3,773 \| 🐛 150 \| 🌐 C++ \| 📅 2024-04-10                          | 支持 TCP/UDP/HTTP 协议的 C++ 高性能网络库。                            |
 | [FTP client for C++](https://github.com/embeddedmz/ftpclient-cpp) ⭐ 233 \| 🐛 12 \| 🌐 C++ \| 📅 2023-02-07    | 用于发起 FTP 请求的 C++ 客户端。                                      |
 | [H2O](https://github.com/h2o/h2o) ⭐ 11,541 \| 🐛 731 \| 🌐 C \| 📅 2026-08-04                                  | 一个优化的 HTTP 服务器，支持 HTTP/1.x 和 HTTP/2。也可作为库使用。               |
@@ -664,7 +664,7 @@
 | [libcurl](http://curl.haxx.se/libcurl/)                                                                        | 多协议文件传输库。                                                  |
 | [libhttpserver](https://github.com/etr/libhttpserver) ⭐ 950 \| 🐛 9 \| 🌐 C++ \| 📅 2026-07-23                 | 用于创建嵌入式 Rest HTTP 服务器（及更多）的 C++ 库。                         |
 | [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)                                                    | GNU libmicrohttpd 是一个小型 C 库，旨在方便地在另一个应用程序中运行 HTTP 服务器。     |
-| [RedPanda](https://github.com/redpanda-data/redpanda) ⭐ 12,489 \| 🐛 549 \| 🌐 C++ \| 📅 2026-08-22            | 面向开发者的流数据平台，兼容 Kafka API，速度提升 10 倍                         |
+| [RedPanda](https://github.com/redpanda-data/redpanda) ⭐ 12,490 \| 🐛 549 \| 🌐 C++ \| 📅 2026-08-22            | 面向开发者的流数据平台，兼容 Kafka API，速度提升 10 倍                         |
 | [RakNet](https://github.com/OculusVR/RakNet) ⚠️ Archived                                                       | 一个跨平台、开源的 C++ 网络引擎，专为游戏程序员设计                               |
 | [restclient-cpp](https://github.com/mrtazz/restclient-cpp) ⭐ 1,613 \| 🐛 35 \| 🌐 C++ \| 📅 2025-01-03         | 简单易用的 C++ REST 客户端，封装了 libcurl 进行 HTTP 请求                  |
 | [Seasocks](https://github.com/mattgodbolt/seasocks) ⭐ 787 \| 🐛 43 \| 🌐 C++ \| 📅 2026-07-17                  | 简单、小巧的 C++ 嵌入式 Web 服务器，支持 WebSockets                       |
@@ -719,8 +719,8 @@
 
 | 项目                                                                                                                | 简介                                                          |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [rocksdb](https://github.com/facebook/rocksdb) ⭐ 32,014 \| 🐛 1,623 \| 🌐 C++ \| 📅 2026-08-27                    | Facebook 出品的高性能嵌入式键值数据库                                     |
-| [sqlite\_orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,691 \| 🐛 17 \| 🌐 C++ \| 📅 2026-08-27                    | SQLite 的现代 C++ ORM 封装                                       |
+| [rocksdb](https://github.com/facebook/rocksdb) ⭐ 32,015 \| 🐛 1,623 \| 🌐 C++ \| 📅 2026-08-27                    | Facebook 出品的高性能嵌入式键值数据库                                     |
+| [sqlite\_orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,691 \| 🐛 16 \| 🌐 C++ \| 📅 2026-08-27                    | SQLite 的现代 C++ ORM 封装                                       |
 | [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) ⭐ 2,780 \| 🐛 93 \| 🌐 C \| 📅 2026-08-25                     | SQLite 的 C++ 封装库                                            |
 | [OTL](http://otl.sourceforge.net/)                                                                                | Oracle、ODBC 和 DB2-CLI 模板库                                   |
 | [ClickHouse](https://github.com/ClickHouse/clickhouse-cpp) ⭐ 381 \| 🐛 45 \| 🌐 C \| 📅 2026-08-24                | ClickHouse 数据库的 C++ 客户端。                                    |
@@ -740,7 +740,7 @@
 | [Pelikan](https://github.com/twitter/pelikan) ⭐ 1,957 \| 🐛 58 \| 🌐 C \| 📅 2023-10-11                           | Twitter 开发的模块化、高性能缓存框架，支持多种协议（memcached、redis 等）。           |
 | [PostgreSQL](https://github.com/postgres/postgres) ⭐ 21,912 \| 🐛 0 \| 🌐 C \| 📅 2026-08-27                      | 世界领先的企业级开源关系型数据库系统，支持 SQL 标准与扩展特性                           |
 | [QuickDB](https://github.com/SaddestPerson/QuickDB)                                                               | 简单的文件键值存储解决方案，使用 JSON 持久化，无需依赖                              |
-| [RocksDB](https://github.com/facebook/rocksdb) ⭐ 32,014 \| 🐛 1,623 \| 🌐 C++ \| 📅 2026-08-27                    | Facebook 基于 LevelDB 构建的高性能持久化 KV 数据库，支持压缩与并发                |
+| [RocksDB](https://github.com/facebook/rocksdb) ⭐ 32,015 \| 🐛 1,623 \| 🌐 C++ \| 📅 2026-08-27                    | Facebook 基于 LevelDB 构建的高性能持久化 KV 数据库，支持压缩与并发                |
 | [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) ⭐ 560 \| 🐛 8 \| 🌐 C++ \| 📅 2024-01-05 | 高性能、共享内存、无锁、跨平台、单文件、最小依赖、C++11 键值存储                         |
 | [SkyTable](https://github.com/skytable/skytable) ⭐ 2,660 \| 🐛 31 \| 🌐 Rust \| 📅 2026-04-23                     | 通用 NoSQL 数据库，支持强一致性与内存索引优化，支持多种数据结构                         |
 | [sled](https://github.com/spacejam/sled) ⭐ 9,079 \| 🐛 172 \| 🌐 Rust \| 📅 2026-04-04                            | 嵌入式数据库，具有锁自由并发支持、崩溃恢复与写前日志机制，Rust 开发但提供 C FFI 接口。           |
@@ -763,8 +763,8 @@
 | [**folly**](https://github.com/facebook/folly) ⭐ 30,509 \| 🐛 463 \| 🌐 C++ \| 📅 2026-08-27      | Facebook 推出的 C++ 核心组件库    |
 | [**workflow**](https://github.com/sogou/workflow) ⭐ 14,418 \| 🐛 27 \| 🌐 C++ \| 📅 2026-08-10    | 搜狗高性能异步框架，支持 HTTP、RPC 等   |
 | [**srpc**](https://github.com/sogou/srpc) ⭐ 2,141 \| 🐛 33 \| 🌐 C++ \| 📅 2026-03-24             | 基于 workflow 的高性能 RPC 框架   |
-| [**chromium**](https://github.com/chromium/chromium) ⭐ 24,633 \| 🐛 28 \| 📅 2026-08-27           | Chrome 浏览器核心，C++ 大型项目学习典范 |
-| [**winmerge**](https://github.com/WinMerge/winmerge) ⭐ 9,152 \| 🐛 488 \| 🌐 C++ \| 📅 2026-08-27 | Windows 平台的文件差异比较工具       |
+| [**chromium**](https://github.com/chromium/chromium) ⭐ 24,634 \| 🐛 28 \| 📅 2026-08-27           | Chrome 浏览器核心，C++ 大型项目学习典范 |
+| [**winmerge**](https://github.com/WinMerge/winmerge) ⭐ 9,153 \| 🐛 488 \| 🌐 C++ \| 📅 2026-08-27 | Windows 平台的文件差异比较工具       |
 | [**nvui**](https://github.com/rohit-px2/nvui) ⭐ 1,744 \| 🐛 32 \| 🌐 C++ \| 📅 2023-05-06         | Neovim 的图形界面（Qt + C++）    |
 | [**hplayer**](https://github.com/ithewei/hplayer) ⭐ 1,041 \| 🐛 9 \| 🌐 C++ \| 📅 2023-05-17      | 高性能 HLS 视频播放器，支持本地解码      |
 
@@ -835,7 +835,7 @@
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | [**Anbox**](https://github.com/anbox/anbox) ⚠️ Archived                                                                 | 基于容器技术让 Android 原生运行在 Linux 上                         |
 | [**Waydroid**](https://github.com/waydroid/waydroid) ⭐ 12,050 \| 🐛 935 \| 🌐 Python \| 📅 2026-08-01                   | Anbox 的活跃替代品，支持完整 Android UI，性能更好                     |
-| [**Genymotion Emulator (scrcpy)**](https://github.com/Genymobile/scrcpy) ⭐ 148,365 \| 🐛 2,883 \| 🌐 C \| 📅 2026-08-17 | **scrcpy** 是 Genymotion 团队开发的高性能安卓投屏工具（C 实现）          |
+| [**Genymotion Emulator (scrcpy)**](https://github.com/Genymobile/scrcpy) ⭐ 148,370 \| 🐛 2,883 \| 🌐 C \| 📅 2026-08-17 | **scrcpy** 是 Genymotion 团队开发的高性能安卓投屏工具（C 实现）          |
 | [**SPURV**](https://gitlab.collabora.com/spurv/spurv)                                                                   | Collabora 开发的 Android on Linux 容器运行方案，主打 Wayland 桌面支持 |
 | [**Box64 / Box86**](https://github.com/ptitSeb/box64) ⭐ 5,611 \| 🐛 205 \| 🌐 C \| 📅 2026-08-27                        | 在 ARM 设备上运行 x86 Linux 程序（用 C 写的高性能模拟器）                |
 | [**QEMU**](https://github.com/qemu/qemu) ⭐ 13,633 \| 🐛 0 \| 🌐 C \| 📅 2026-08-27                                      | 世界最著名的虚拟化模拟器，支持多种架构，底层大量 C 实现                         |
@@ -850,7 +850,7 @@
 | 项目                                                                                                                      | 介绍                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [assimp](https://github.com/assimp/assimp) ⭐ 13,166 \| 🐛 543 \| 🌐 C++ \| 📅 2026-08-27                                | Open Asset Import Library 是一个跨平台的 3D 模型导入库，旨在为不同的 3D 资产文件格式提供一个通用的 API。 |
-| [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,433 \| 🐛 285 \| 🌐 C++ \| 📅 2026-08-26                                 | 一个跨平台的渲染库。                                                              |
+| [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,434 \| 🐛 285 \| 🌐 C++ \| 📅 2026-08-26                                 | 一个跨平台的渲染库。                                                              |
 | [Blend2D](https://github.com/blend2d/blend2d) ⭐ 1,981 \| 🐛 39 \| 🌐 C++ \| 📅 2025-11-29                               | 由 JIT 编译器驱动的 2D 矢量图形引擎。                                                 |
 | [Cairo](http://www.cairographics.org/)                                                                                  | 一个支持多种输出设备的 2D 图形库。                                                     |
 | [C-Turtle](https://github.com/walkerje/C-Turtle) ⭐ 87 \| 🐛 3 \| 🌐 C++ \| 📅 2025-02-06                                | 一个 C++11 仅头文件的海龟图形库，作为 CImg 的封装。                                        |
@@ -864,7 +864,7 @@
 | [Ion](https://github.com/google/ion) ⚠️ Archived                                                                        | 一组小型高效的库，用于构建使用 3D 图形的跨平台客户端或服务器应用程序。                                   |
 | [Irrlicht](http://irrlicht.sourceforge.net/)                                                                            | 一个用 C++ 编写的高性能实时 3D 引擎。                                                 |
 | [libigl](https://github.com/libigl/libigl) ⭐ 5,078 \| 🐛 156 \| 🌐 C++ \| 📅 2026-08-26                                 | 简单的 C++ 几何处理库。                                                          |
-| [LLGL](https://github.com/LukasBanana/LLGL) ⭐ 2,622 \| 🐛 8 \| 🌐 C++ \| 📅 2026-08-26                                  | Low Level Graphics Library 是现代图形 API 的一个轻量级抽象层。                         |
+| [LLGL](https://github.com/LukasBanana/LLGL) ⭐ 2,623 \| 🐛 8 \| 🌐 C++ \| 📅 2026-08-26                                  | Low Level Graphics Library 是现代图形 API 的一个轻量级抽象层。                         |
 | [LunaSVG](https://github.com/sammycage/lunasvg) ⭐ 1,203 \| 🐛 36 \| 🌐 C \| 📅 2026-08-26                               | 一个独立的 C++ SVG 渲染库。                                                      |
 | [magnum](https://github.com/mosra/magnum) ⭐ 5,195 \| 🐛 76 \| 🌐 C++ \| 📅 2026-08-23                                   | 轻量级模块化的 C++11/C++14 图形中间件，适用于游戏和数据可视化。                                  |
 | [micro-gl](https://github.com/micro-gl/micro-gl) ⭐ 393 \| 🐛 5 \| 🌐 C++ \| 📅 2026-06-03                               | 实时、可嵌入、仅头文件的 C++11 CPU 矢量图形库。无需标准库、无需 FPU 和无需 GPU。                      |
@@ -884,7 +884,7 @@
 | [libavif](https://github.com/AOMediaCodec/libavif) ⭐ 2,164 \| 🐛 173 \| 🌐 C \| 📅 2026-08-27                | 用于编码和解码 .avif 文件的库。                       |
 | [libfacedetection](https://github.com/ShiqiYu/libfacedetection) ⭐ 12,784 \| 🐛 56 \| 🌐 C++ \| 📅 2026-06-28 | 用于图像人脸检测的开源库。人脸检测速度可达 1500FPS。            |
 | [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) ⭐ 4,403 \| 🐛 16 \| 🌐 C \| 📅 2026-08-26    | 一个 JPEG 图像编解码器，使用 SIMD 指令加速基线 JPEG 编码和解码。 |
-| [libjxl](https://github.com/libjxl/libjxl) ⭐ 3,640 \| 🐛 480 \| 🌐 C++ \| 📅 2026-08-27                      | JPEG XL 图像格式参考实现。                         |
+| [libjxl](https://github.com/libjxl/libjxl) ⭐ 3,642 \| 🐛 480 \| 🌐 C++ \| 📅 2026-08-27                      | JPEG XL 图像格式参考实现。                         |
 | [libpng](https://github.com/pnggroup/libpng) ⭐ 1,648 \| 🐛 216 \| 🌐 C \| 📅 2026-06-26                      | 用于读取、创建和操作 PNG（便携式网络图形）栅格图像文件的应用程序的参考库。   |
 | [libspng](https://github.com/randy408/libspng) ⭐ 841 \| 🐛 86 \| 🌐 C \| 📅 2024-06-15                       | 简单、现代的 libpng 替代方案。                       |
 | [libvips](https://github.com/jcupitt/libvips) ⭐ 70 \| 🐛 0 \| 🌐 C \| 📅 2021-09-22                          | 一个内存需求低、速度快的图像处理库。                        |
@@ -914,11 +914,11 @@
 | [Evolving Objects](http://eodev.sourceforge.net/)                                                                  | 一个基于模板的 ANSI-C++ 进化计算库，可帮助您极快地编写自己的随机优化算法。                                         |
 | [Genann](https://github.com/codeplea/genann) ⭐ 2,280 \| 🐛 0 \| 🌐 C \| 📅 2026-08-08                              | 一个简单的 C 语言神经网络库。                                                                   |
 | [MXNet](https://github.com/apache/incubator-mxnet) ⚠️ Archived                                                     | 轻量级、可移植、灵活的分布式/移动深度学习库，具有动态、感知突变的数据流依赖调度器；支持 Python、R、Julia、Scala、Go、JavaScript 等。 |
-| [PyTorch](https://github.com/pytorch/pytorch) ⭐ 102,613 \| 🐛 17,373 \| 🌐 Python \| 📅 2026-08-27                 | Python 中的张量和动态神经网络，具有强大的 GPU 加速功能。                                                 |
+| [PyTorch](https://github.com/pytorch/pytorch) ⭐ 102,613 \| 🐛 17,374 \| 🌐 Python \| 📅 2026-08-27                 | Python 中的张量和动态神经网络，具有强大的 GPU 加速功能。                                                 |
 | [flashlight](https://github.com/flashlight/flashlight) ⭐ 5,466 \| 🐛 126 \| 🌐 C++ \| 📅 2026-06-22                | Flashlight 是一个完全用 C++ 编写的快速、灵活的机器学习库。                                              |
 | [Recast/Detour](https://github.com/recastnavigation/recastnavigation) ⭐ 7,876 \| 🐛 133 \| 🌐 C++ \| 📅 2026-02-27 | （3D）导航网格生成器和寻路器，主要用于游戏。                                                            |
-| [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,719 \| 🐛 2,942 \| 🌐 C++ \| 📅 2026-08-27            | 一个使用数据流图进行数值计算的开源软件库。                                                              |
-| [oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 4,043 \| 🐛 186 \| 🌐 C++ \| 📅 2026-08-27                        | 一个用于深度学习应用的开源跨平台性能库。                                                               |
+| [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 197,723 \| 🐛 2,944 \| 🌐 C++ \| 📅 2026-08-27            | 一个使用数据流图进行数值计算的开源软件库。                                                              |
+| [oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 4,043 \| 🐛 187 \| 🌐 C++ \| 📅 2026-08-27                        | 一个用于深度学习应用的开源跨平台性能库。                                                               |
 | [CNTK](https://github.com/Microsoft/CNTK) ⚠️ Archived                                                              | Microsoft Cognitive Toolkit (CNTK)，一个开源深度学习工具包。                                    |
 | [Veles](https://github.com/Samsung/veles) ⭐ 916 \| 🐛 36 \| 🌐 C++ \| 📅 2023-11-21                                | 用于快速深度学习应用开发的分布式平台。                                                                |
 | [Kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,469 \| 🐛 261 \| 🌐 Shell \| 📅 2025-09-22                        | 语音识别工具包。                                                                           |
